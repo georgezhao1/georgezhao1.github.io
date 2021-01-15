@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Full Stack Data Scientist</title>
+        <link>https://georgezhao1.github.io/</link>
+        <description>Dr. George Blog</description>
+        <lastBuildDate>Wed, 06 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 George Zhao Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[Review 2020]]></title>
+            <link>https://georgezhao1.github.io/review-2020</link>
+            <guid>review-2020</guid>
+            <pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Summarize 2020 and plan for 2021]]></description>
+        </item>
+    </channel>
+</rss>
